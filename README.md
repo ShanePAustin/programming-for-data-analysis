@@ -30,7 +30,7 @@ For this project you must create a data set by simulating a real-world phenomeno
 
 To run the code locally this repository can be cloned and run using a python IDE or through Jupyter Notebook. The applications used for creation of the project are The Jupyter Notebook and Cmder.
 
-* Download or clone current repository "machine-learning-and-statistics"
+* Download or clone current repository "programming-for-data-analysis-project"
 * Install Python - This was developed using Anaconda but the modules required to run are detailed in the ```requirements.txt```
 * Refer to the ```requirements.txt``` and import as required
 * Install Jupyter
@@ -44,13 +44,11 @@ To run the code locally this repository can be cloned and run using a python IDE
 ### Requirements
 
 * matplotlib==3.3.2
-* mlxtend==0.19.0
 * numpy==1.21.4
 * pandas==1.1.3
-* scikit_learn==1.0.2
-* scipy==1.5.2
+* plotly==5.5.0
 * seaborn==0.11.0
-* statsmodels==0.12.0
+
 
 The packages can be installed using ```pip install```
 
